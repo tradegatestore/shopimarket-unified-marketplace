@@ -1,0 +1,7 @@
+{
+  "name": "ShopiMarket - Unified Shopify Marketplace",
+  "description": "A comprehensive Amazon-style marketplace platform where multiple Shopify stores connect to a single customer-facing app, including seller and admin dashboards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
